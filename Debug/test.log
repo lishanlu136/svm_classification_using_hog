@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/8/7 10:25:55。
+     1>项目“E:\auto0473\vs2012_Projects\test\test\test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt function.cpp test.cpp
+         test.cpp
+     1>e:\auto0473\vs2012_projects\test\test\test.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\auto0473\vs2012_projects\test\test\test.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\auto0473\vs2012_projects\test\test\test.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\auto0473\vs2012_projects\test\test\test.cpp(74): warning C4018: “<”: 有符号/无符号不匹配
+         function.cpp
+     1>e:\auto0473\vs2012_projects\test\test\function.cpp(110): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\auto0473\vs2012_Projects\test\Debug\test.exe" /INCREMENTAL /NOLOGO opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_ml249d.lib opencv_nonfree249d.lib opencv_objdetect249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_videostab249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\auto0473\vs2012_Projects\test\Debug\test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\auto0473\vs2012_Projects\test\Debug\test.lib" /MACHINE:X86 Debug\function.obj
+         Debug\test.obj
+         test.vcxproj -> E:\auto0473\vs2012_Projects\test\Debug\test.exe
+     1>已完成生成项目“E:\auto0473\vs2012_Projects\test\test\test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.28
